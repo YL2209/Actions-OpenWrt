@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: 小米mini
+name: 小米mini-2021-4-10
 
 on:
   repository_dispatch:
